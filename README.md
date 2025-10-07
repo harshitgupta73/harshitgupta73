@@ -23,7 +23,7 @@ I enjoy solving problems, learning new technologies, and collaborating with peop
 
 ### 💻 **Languages & Frameworks**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,jetpackcompose,androidstudio,java,js,nodejs,express,firebase,flask,python,c,c++,mongodb,sql" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,java,js,nodejs,express,firebase,flask,python,c,cpp,mongodb,sql" />
 </p>
 
 ### 🧩 **Cloud, DevOps & Tools**
@@ -43,10 +43,13 @@ I enjoy solving problems, learning new technologies, and collaborating with peop
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshitgupta73&show_icons=true&theme=radical" alt="Harshit's GitHub stats" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitgupta73&layout=compact&theme=radical" alt="Top Languages" height="160" />
-  <img src="https://github-profile-trophy.vercel.app/?username=harshitgupta73&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)" height="160"/>
 </p>
 
----
+## 📊 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshitgupta73&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)" height="160"/>
+</p>
 
 ## 🌐 Connect With Me
 <p align="left">
