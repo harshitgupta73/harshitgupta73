@@ -23,12 +23,12 @@ I enjoy solving problems, learning new technologies, and collaborating with peop
 
 ### 💻 **Languages & Frameworks**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,java,js,nodejs,express,firebase" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,jetpackcompose,androidstudio,java,js,nodejs,express,firebase,flask,python,c,c++,mongodb,sql" />
 </p>
 
 ### 🧩 **Cloud, DevOps & Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,postman,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,postman,linux,bash,gitlab" />
 </p>
 
 ### 🧮 **Other Interests**
@@ -38,11 +38,12 @@ I enjoy solving problems, learning new technologies, and collaborating with peop
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats And Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshitgupta26&show_icons=true&theme=radical" alt="Harshit's GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitgupta26&layout=compact&theme=radical" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=harshitgupta73&show_icons=true&theme=radical" alt="Harshit's GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitgupta73&layout=compact&theme=radical" alt="Top Languages" height="160" />
+  <img src="https://github-profile-trophy.vercel.app/?username=harshitgupta73&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)" height="160"/>
 </p>
 
 ---
@@ -55,11 +56,13 @@ I enjoy solving problems, learning new technologies, and collaborating with peop
   <a href="mailto:your.email@example.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
   </a>
+  <a href="https://www.instagram.com/your-instagram-profile/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
+  </a>
   <a href="https://github.com/harshitgupta26" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
   </a>
 </p>
-
 ---
 
 ⭐️ *“Code with purpose, build with passion, and keep learning every day.”*  
