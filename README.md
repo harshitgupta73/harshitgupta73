@@ -53,16 +53,16 @@ I enjoy solving problems, learning new technologies, and collaborating with peop
 
 ## 🌐 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
+  <a href="[https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/harshit-gupta73/)" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:hg832004@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
   </a>
-  <a href="https://www.instagram.com/your-instagram-profile/" target="_blank">
+  <a href="[https://www.instagram.com/your-instagram-profile/](https://www.instagram.com/_i_m_harshit/#)" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="Instagram"/>
   </a>
-  <a href="https://github.com/harshitgupta26" target="_blank">
+  <a href="https://github.com/harshitgupta73" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
   </a>
 </p>
