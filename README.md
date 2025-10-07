@@ -1,38 +1,65 @@
-# 👋 Hi, I'm Harshit Gupta
+<h1 align="center">👋 Hey there, I'm Harshit Gupta</h1>
 
-💻 **Full-Stack Mobile Developer**  
-🚀 Flutter | Kotlin | Node.js | Firebase | Docker | AWS | AI Integration  
-
-🎓 CSE’26 @ MMMUT, Gorakhpur  
-
-🌱 I’m currently exploring **AI-powered app development** and modern DevOps practices.  
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/your-profile) | [Email](mailto:your@email.com)  
+<p align="center">
+  🎓 <b>Computer Science & Engineering Student (CSE’26)</b> at <b>MMMUT, Gorakhpur</b><br>
+  💻 <b>Full-Stack Mobile Developer</b> | Flutter | Kotlin | Node.js | Firebase | AI Enthusiast<br>
+  🚀 Passionate about building intelligent, scalable & user-centric applications
+</p>
 
 ---
 
-### 🧠 Tech Stack
-- **Mobile:** Flutter, Dart, Kotlin, Jetpack Compose  
-- **Backend:** Node.js, Express.js, Firebase  
-- **Cloud & DevOps:** Docker, CI/CD, AWS  
+## 🧠 About Me
+
+I’m an enthusiastic **Full-Stack Mobile Developer** skilled in **Flutter**, **Kotlin (Jetpack Compose)**, **Node.js**, and **Firebase**, passionate about creating innovative mobile experiences powered by **AI** and modern **cloud technologies**.  
+
+I love transforming ideas into real-world apps — from crafting beautiful UIs to integrating robust backends and deploying them with **Docker**, **CI/CD**, and **AWS**.  
+
+Currently, I’m exploring how **AI and automation** can make apps smarter, faster, and more intuitive.  
+I enjoy solving problems, learning new technologies, and collaborating with people who share a passion for innovation.
 
 ---
 
-### ⚡ Fun Fact
-I love building smart, scalable apps and exploring how AI can enhance user experiences.
+## 🧰 Tech Stack & Tools
 
+### 💻 **Languages & Frameworks**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,java,js,nodejs,express,firebase" />
+</p>
 
-<!--
-**harshitgupta73/harshitgupta73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧩 **Cloud, DevOps & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vscode,postman,linux,bash" />
+</p>
 
-Here are some ideas to get you started:
+### 🧮 **Other Interests**
+- Artificial Intelligence & ML integration in mobile apps  
+- REST API design and optimization  
+- Problem-solving & DSA practice  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshitgupta26&show_icons=true&theme=radical" alt="Harshit's GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitgupta26&layout=compact&theme=radical" alt="Top Languages" height="160" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email"/>
+  </a>
+  <a href="https://github.com/harshitgupta26" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+⭐️ *“Code with purpose, build with passion, and keep learning every day.”*  
